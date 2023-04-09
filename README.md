@@ -1,4 +1,6 @@
 Nettoyage PROPAR
+
+
 La société Nettoyage PROPAR est une société de nettoyage destinée aux pros et particuliers. Dans l’application, il y aura trois types d’utilisateurs:
 
 L’expert (Administrateur), il peut ajouter du personnel, prendre 5 opérations à la fois, créer les identifiants du personnel, modifier le rôle du personnel et il peut aussi connaître le chiffre d’affaire de l’entreprise.
